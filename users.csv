@@ -1,2 +1,3 @@
 name,password,area1,area2,area3,area4
-admin,12345,west,south,north,east
+admin,12345,west,south,,
+varun,9876,north,east,,
